@@ -114,6 +114,9 @@ O modelo atingiu **95% de acurácia** na classificação de tumores, com desempe
 
 Como próximos passos, seria interessante testar modelos mais robustos como **Random Forest** ou **SVM**, buscando especialmente aumentar o Recall para a classe Maligno e reduzir os falsos negativos.
 
+<img width="524" height="389" alt="image" src="https://github.com/user-attachments/assets/20384c31-0153-4fd4-8a43-1b360626f404" />
+
+
 ---
 
 ## Tecnologias Utilizadas
