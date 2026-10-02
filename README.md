@@ -135,7 +135,7 @@ O modelo atingiu **95% de acurácia** na classificação de tumores, com desempe
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone (https://github.com/sarahsalvino/Decision-Tree---Breast-Cancer.git)
 ```
 
 2. Instale as dependências
