@@ -112,11 +112,13 @@ O **Recall de 0.93 para Maligno** é a métrica mais crítica nesse contexto. Si
 
 O modelo atingiu **95% de acurácia** na classificação de tumores, com desempenho ligeiramente superior para tumores benignos (96%) em relação aos malignos (93%). O resultado é muito bom considerando a simplicidade do algoritmo utilizado.
 
-Como próximos passos, seria interessante testar modelos mais robustos como **Random Forest** ou **SVM**, buscando especialmente aumentar o Recall para a classe Maligno e reduzir os falsos negativos.
+
+<img width="496" height="387" alt="image" src="https://github.com/user-attachments/assets/a276b657-eb98-4e7b-9b18-aa1ac68cd3b8" />
+
 
 <img width="524" height="389" alt="image" src="https://github.com/user-attachments/assets/20384c31-0153-4fd4-8a43-1b360626f404" />
 
-
+- Como próximos passos, seria interessante testar modelos mais robustos como **Random Forest** ou **SVM**, buscando especialmente aumentar o Recall para a classe Maligno e reduzir os falsos negativos.
 ---
 
 ## Tecnologias Utilizadas
